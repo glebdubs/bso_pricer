@@ -49,7 +49,10 @@ st.title("▲ Black-Scholes Option Pricing Model")
 st.markdown("Using the formulas for _**european**_ options, this tool takes in given properties of an option and returns the appropriate call and put prices.")
 
 st.divider()
-col1, col2 = st.columns([0.4, 0.6], gap="medium")
+col1, col2 = st.columns([0.5, 0.5], gap="medium")
 
 with col1:
   st.markdown("Formula for black-scholes pricing of a european **call option**:")
+  st.latex('''
+S_{o}N(d_{1})
+           ''')
