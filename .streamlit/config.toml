@@ -3,8 +3,10 @@ showErrorDetails = "all"
 
 [theme]
 primaryColor = "rgb(244, 46, 99)"
-backgroundColor = "rgb(37, 29, 25)"
+backgroundColor = "rgb(30, 30, 46)"
+textColor = "rgb(243, 234, 230)"
 
 [theme.sidebar]
 
-backgroundColor = "rgb(27, 22, 20)"
+backgroundColor = "rgb(20, 20, 27)"
+textColor = "rgb(243, 234, 230)"
