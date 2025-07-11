@@ -1,0 +1,10 @@
+[client]
+showErrorDetails = "all"
+
+[theme]
+primaryColor = "rgb(244, 46, 99)"
+backgroundColor = "rgb(37, 29, 25)"
+
+[theme.sidebar]
+
+backgroundColor = "rgb(27, 22, 20)"
